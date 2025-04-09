@@ -5089,6 +5089,18 @@ PrefabInstance:
       propertyPath: m_TagString
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 7714677711420472336, guid: b571d2362c9d2ea48be69fbbeab462ee, type: 3}
+      propertyPath: m_Mass
+      value: 2.0412865
+      objectReference: {fileID: 0}
+    - target: {fileID: 7714677711420472336, guid: b571d2362c9d2ea48be69fbbeab462ee, type: 3}
+      propertyPath: m_UseAutoMass
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7714677711420472336, guid: b571d2362c9d2ea48be69fbbeab462ee, type: 3}
+      propertyPath: m_CollisionDetection
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
